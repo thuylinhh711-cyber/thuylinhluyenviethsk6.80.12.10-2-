@@ -1,0 +1,32 @@
+{
+  "name": "HSK 6 — Luyện viết",
+  "short_name": "HSK6 Viết",
+  "description": "Luyện viết HSK 6 với lặp lại ngắt quãng, sổ từ vựng và ôn lật thẻ.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eaf4f5",
+  "theme_color": "#4fa3a0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
